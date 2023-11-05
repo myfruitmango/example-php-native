@@ -3,6 +3,8 @@
 Undang-undang Orang BELAKANG AKHIR
 
 ## Getting started :tada:
+> [!NOTE]
+> jangan Lupa Bernafas.
 
 ```bash
 - Sebelum memulai jangan lupa untuk sarapan dan berdoa.
@@ -13,6 +15,8 @@ Undang-undang Orang BELAKANG AKHIR
 ```
 
 ## Testing and Bugs :trollface:
+> [!WARNING]
+> pastikan semua baik baik saja.
 
 ```bash
 - Pastikan setiap fitur yang dikerjakan tidak ada error atau kendala
@@ -22,6 +26,8 @@ Undang-undang Orang BELAKANG AKHIR
 ```
 
 ## Add your files :hot_face:
+> [!IMPORTANT]
+> ini sangatlah penting!!!
 
 ```bash
 - Jika sudah melakukan testing, tidak ada error pastikan sudah menghapus file `error_log` yang ada.
@@ -30,6 +36,8 @@ Undang-undang Orang BELAKANG AKHIR
 ```
 
 ## Noted Commit :poop:
+> [!IMPORTANT]
+> ini sangatlah penting!!!
 
 ```bash
 - Jika file baru `create (yang baru)`.
