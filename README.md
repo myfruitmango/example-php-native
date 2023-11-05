@@ -2,7 +2,7 @@
 
 Undang-undang Orang BELAKANG AKHIR
 
-## Getting started
+## Getting started :tada:
 
 ```bash
 - Sebelum memulai jangan lupa untuk sarapan dan berdoa.
@@ -12,7 +12,7 @@ Undang-undang Orang BELAKANG AKHIR
 - Buka git bash lalu ketik pada terminal `php -S localhost:5000`.
 ```
 
-## Testing and Bugs
+## Testing and Bugs :trollface:
 
 ```bash
 - Pastikan setiap fitur yang dikerjakan tidak ada error atau kendala
@@ -21,7 +21,7 @@ Undang-undang Orang BELAKANG AKHIR
 - Lalu isi form yang tersedia judul dan komentar detail mengenai kendala yang ada.
 ```
 
-## Add your files
+## Add your files :hot_face:
 
 ```bash
 - Jika sudah melakukan testing, tidak ada error pastikan sudah menghapus file `error_log` yang ada.
@@ -29,7 +29,7 @@ Undang-undang Orang BELAKANG AKHIR
 - `git push` jika sudah selesaikan mengerjakan task yang ada.
 ```
 
-## Noted Commit
+## Noted Commit :poop:
 
 ```bash
 - Jika file baru `create (yang baru)`.
@@ -37,7 +37,7 @@ Undang-undang Orang BELAKANG AKHIR
 - Jika file dihapus `delete (yang dihapus)`.
 ```
 
-# Closing
+# Closing :+1:
 
 ```bash
 - Setiap hari pada jam 08.00 pm akan dilakukan Pull Request ke branch developer pastikan sedang tidak mengerjakan task.
